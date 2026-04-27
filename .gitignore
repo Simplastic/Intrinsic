@@ -1,0 +1,55 @@
+# Gradle
+.gradle/
+build/
+!**/src/**/build/
+out/
+bin/
+gradle.properties
+gradlew
+
+# Fabric Loom
+run/
+!**/src/**/run/
+remappedSrc/
+
+# IDE — IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IDE — Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# IDE — VSCode
+.vscode/
+
+# IDE — NetBeans
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Java
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# Local / agent
+.claude/
+CLAUDE.md
+TODOLIST
+INTRINSIC logo
+INTRINSIC logo full
+INTRINSIC logo long
+
+

@@ -1,0 +1,7 @@
+{
+  "parent": "vanilla_tweaks:block/template/hanging/chains_point",
+  "textures": {
+    "sign": "vanilla_tweaks:3dchains/entity/signs/hanging/bamboo",
+    "particle": "minecraft:block/bamboo_planks"
+  }
+}

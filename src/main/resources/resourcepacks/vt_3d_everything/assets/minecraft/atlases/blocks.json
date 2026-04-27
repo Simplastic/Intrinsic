@@ -1,0 +1,124 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/acacia",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/acacia"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/acacia",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/acacia"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/bamboo",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/bamboo"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/bamboo",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/bamboo"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/birch",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/birch"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/birch",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/birch"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/cherry",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/cherry"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/cherry",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/cherry"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/crimson",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/crimson"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/crimson",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/crimson"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/dark_oak",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/dark_oak"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/dark_oak",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/dark_oak"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/jungle",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/jungle"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/jungle",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/jungle"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/mangrove",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/mangrove"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/mangrove",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/mangrove"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/oak",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/oak"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/oak",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/oak"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/pale_oak",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/pale_oak"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/pale_oak",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/pale_oak"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/spruce",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/spruce"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/spruce",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/spruce"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/warped",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/warped"
+    },
+    {
+      "type": "single",
+      "resource": "minecraft:entity/signs/hanging/warped",
+      "sprite": "vanilla_tweaks:3dchains/entity/signs/hanging/warped"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "vanilla_tweaks:block/template/hanging/chains_straight_dangling",
+  "textures": {
+    "sign": "vanilla_tweaks:3dchains/entity/signs/hanging/spruce",
+    "particle": "minecraft:block/stripped_spruce_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/sweet_berry_bush_stage1",
+	"textures": {
+		"texture": "block/sweet_berry_bush_stage3"
+	}
+}

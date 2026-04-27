@@ -1,0 +1,29 @@
+{
+    "schemaVersion": 1,
+    "id": "intrinsic",
+    "version": "${version}",
+    "name": "Intrinsic",
+    "description": "Client-side quality-of-life improvements inspired by VanillaTweaks. Coordinates HUD, zoom, fullbright, durability warnings, and more.",
+    "authors": ["Simplastic_"],
+    "contact": {},
+    "license": "MIT",
+    "icon": "assets/intrinsic/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "main": ["com.intrinsic.IntrinsicMod"],
+        "client": ["com.intrinsic.client.IntrinsicClient"]
+    },
+    "mixins": [
+        "intrinsic.mixins.json",
+        {
+            "config": "intrinsic.client.mixins.json",
+            "environment": "client"
+        }
+    ],
+    "depends": {
+        "fabricloader": ">=0.17.0",
+        "minecraft": "~26.1.2",
+        "java": ">=25",
+        "fabric-api": "*"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "vanilla_tweaks:block/template/hanging/chains_point_45",
+  "textures": {
+    "sign": "vanilla_tweaks:3dchains/entity/signs/hanging/birch",
+    "particle": "minecraft:block/stripped_birch_log"
+  }
+}

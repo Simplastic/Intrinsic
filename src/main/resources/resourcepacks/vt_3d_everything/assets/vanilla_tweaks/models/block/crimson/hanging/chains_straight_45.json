@@ -1,0 +1,7 @@
+{
+  "parent": "vanilla_tweaks:block/template/hanging/chains_straight_45",
+  "textures": {
+    "sign": "vanilla_tweaks:3dchains/entity/signs/hanging/crimson",
+    "particle": "minecraft:block/stripped_crimson_stem"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "vanilla_tweaks:block/template/hanging/chains_point_22.5",
+  "textures": {
+    "sign": "vanilla_tweaks:3dchains/entity/signs/hanging/jungle",
+    "particle": "minecraft:block/stripped_jungle_log"
+  }
+}

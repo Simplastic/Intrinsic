@@ -1,0 +1,317 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "rotation": "0",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": "1",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_22.5",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": "2",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_45",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": "3",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_-22.5",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": "4",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": "5",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_22.5",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": "6",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_45",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": "7",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_-22.5"
+      }
+    },
+    {
+      "when": {
+        "rotation": "8",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point"
+      }
+    },
+    {
+      "when": {
+        "rotation": "9",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_22.5"
+      }
+    },
+    {
+      "when": {
+        "rotation": "10",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_45"
+      }
+    },
+    {
+      "when": {
+        "rotation": "11",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_-22.5",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": "12",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": "13",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_22.5",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": "14",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_45",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": "15",
+        "attached": "true"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_point_-22.5",
+        "y": 180
+      }
+    },
+
+    {
+      "when": {
+        "rotation": "0",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": "1",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_22.5",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": "2",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_45",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": "3",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_-22.5",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": "4",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": "5",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_22.5",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": "6",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_45",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": "7",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_-22.5"
+      }
+    },
+    {
+      "when": {
+        "rotation": "8",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight"
+      }
+    },
+    {
+      "when": {
+        "rotation": "9",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_22.5"
+      }
+    },
+    {
+      "when": {
+        "rotation": "10",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_45"
+      }
+    },
+    {
+      "when": {
+        "rotation": "11",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_-22.5",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": "12",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": "13",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_22.5",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": "14",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_45",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": "15",
+        "attached": "false"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/birch/hanging/chains_straight_-22.5",
+        "y": 180
+      }
+    }
+  ]
+}

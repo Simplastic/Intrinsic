@@ -1,0 +1,42 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/mangrove/hanging/chains_straight"
+      }
+    },
+
+    {
+      "when": {
+        "facing": "east"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/mangrove/hanging/chains_straight",
+        "y": 90
+      }
+    },
+
+    {
+      "when": {
+        "facing": "south"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/mangrove/hanging/chains_straight",
+        "y": 180
+      }
+    },
+
+    {
+      "when": {
+        "facing": "west"
+      },
+      "apply": {
+        "model": "vanilla_tweaks:block/mangrove/hanging/chains_straight",
+        "y": 270
+      }
+    }
+  ]
+}

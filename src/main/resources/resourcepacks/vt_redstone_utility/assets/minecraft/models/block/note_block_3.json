@@ -1,0 +1,7 @@
+{
+	"parent": "block/template_note_block",
+	"textures": {
+		"numerical": "block/note_block_numerical_3",
+		"pitch": "block/note_block_pitch_3"
+	}
+}
